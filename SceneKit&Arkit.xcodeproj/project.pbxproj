@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		15021B23292CCE4700B490CF /* Reklam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Reklam.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		15021B23292CCE4700B490CF /* SceneKit&Arkit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SceneKit&Arkit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		15021B26292CCE4700B490CF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		15021B28292CCE4700B490CF /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		15021B2A292CCE4700B490CF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,7 +49,7 @@
 		15021B24292CCE4700B490CF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				15021B23292CCE4700B490CF /* Reklam.app */,
+				15021B23292CCE4700B490CF /* SceneKit&Arkit.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -71,9 +71,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		15021B22292CCE4700B490CF /* Reklam */ = {
+		15021B22292CCE4700B490CF /* SceneKit&Arkit */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 15021B36292CCE4900B490CF /* Build configuration list for PBXNativeTarget "Reklam" */;
+			buildConfigurationList = 15021B36292CCE4900B490CF /* Build configuration list for PBXNativeTarget "SceneKit&Arkit" */;
 			buildPhases = (
 				15021B1F292CCE4700B490CF /* Sources */,
 				15021B20292CCE4700B490CF /* Frameworks */,
@@ -83,9 +83,9 @@
 			);
 			dependencies = (
 			);
-			name = Reklam;
+			name = "SceneKit&Arkit";
 			productName = Reklam;
-			productReference = 15021B23292CCE4700B490CF /* Reklam.app */;
+			productReference = 15021B23292CCE4700B490CF /* SceneKit&Arkit.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -103,7 +103,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 15021B1E292CCE4600B490CF /* Build configuration list for PBXProject "Reklam" */;
+			buildConfigurationList = 15021B1E292CCE4600B490CF /* Build configuration list for PBXProject "SceneKit&Arkit" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,7 +116,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				15021B22292CCE4700B490CF /* Reklam */,
+				15021B22292CCE4700B490CF /* SceneKit&Arkit */,
 			);
 		};
 /* End PBXProject section */
@@ -347,7 +347,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		15021B1E292CCE4600B490CF /* Build configuration list for PBXProject "Reklam" */ = {
+		15021B1E292CCE4600B490CF /* Build configuration list for PBXProject "SceneKit&Arkit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				15021B34292CCE4900B490CF /* Debug */,
@@ -356,7 +356,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		15021B36292CCE4900B490CF /* Build configuration list for PBXNativeTarget "Reklam" */ = {
+		15021B36292CCE4900B490CF /* Build configuration list for PBXNativeTarget "SceneKit&Arkit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				15021B37292CCE4900B490CF /* Debug */,
